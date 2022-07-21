@@ -1,6 +1,6 @@
 ### I'm Alec 👋
 
-I fell in love with software engineering in Fall of 2020. It all started with a Raspberry Pi 4 I purchased earlier that year to run HomeAssistant. As a personal shopper in the gig-economy, I grew frustrated with working for an algorithm and set out trying to create my own shop-and-deliver system using low-code tools.
+I fell in love with software engineering in Fall of 2020. It all started with a Raspberry Pi 4 I purchased earlier that year to run HomeAssistant. As a personal shopper in the gig-economy, I grew frustrated with working for an algorithm and set out trying to create my own shop-and-deliver system using low-code tools on a computer the size of a wallet.
 
 *Then I learned I could write Javascript in Airtable.*
 
