@@ -6,7 +6,7 @@ I fell in love with software engineering in Fall of 2020. It all started with a 
 
 Feeling the electricity humming beneath my fingertips, I grew drunk with power. It was then I knew there was no going back. Since then, I've become more fluent in Typescript than English; more comfortable in an IDE than a hammock (and I do love a good hammock). Everything I know about tech came from reading the docs and coding in my spare time.
 
-#### Life Goals
+### Life Goals
 
 - [x] Become a Dad
 - [x] Find a Passion
