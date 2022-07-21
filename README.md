@@ -11,7 +11,7 @@ Feeling the electricity humming beneath my fingertips, I grew drunk with power. 
 - [x] Become a Dad
 - [x] Find a Passion
 - [ ] Become a Full-Time Software Engineer
-- [ ] Found Successful Startup
+- [ ] Found Successful Startup(s)
 
 <!--
 **alecvision/AlecVision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
