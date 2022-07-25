@@ -4,7 +4,9 @@ I fell in love with software engineering in Fall of 2020. It all started with a 
 
 *Then I learned I could write Javascript in Airtable.*
 
-Feeling the electricity humming beneath my fingertips, I grew drunk with power. It was then I knew there was no going back. Since then, I've become more fluent in Typescript than English; more comfortable in an IDE than a hammock (and I do love a good hammock). Everything I know about tech came from reading the docs and coding in my spare time.
+Feeling the electricity humming beneath my fingertips, I grew drunk with power. It was then I knew there was no going back. Since then, I've become more fluent in Typescript than English; more comfortable in an IDE than a hammock (and I do love a good hammock). 
+
+Everything I know about software development came from reading the docs, researching, writing Airtable extensions, and experimenting with application development in my spare time. For examples, I encourage you to check out my **pinned repos** below!
 
 ### Life Goals
 
