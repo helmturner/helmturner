@@ -1,8 +1,11 @@
 ### I'm Alec 👋
 
-I'm a full-stack web developer, the founder of AlecVision, LLC, a co-organizer for Tulsa WebDevs and, most importantly, a proud husband and father.
+I'm a full-stack web developer, the founder of AlecVision, LLC, a co-organizer for Tulsa WebDevs, and, most importantly, a proud husband and father.
 
-I'm driven to grow, to learn, and to help others do the same!
+My passion is in growing, learning, and helping others do the same!
+
+I've worked with and designed systems involving many modern technologies across the application stack with a strong focus on tools that eliminate 'barriers to entry' for those who want to create great software. 
+
 <!--
 **alecvision/AlecVision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
