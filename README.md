@@ -1,10 +1,32 @@
-### I'm Alec 👋
+I'm Alec 👋
+---
+🏢 AlecVision, LLC
+</br>
+</br>
+✅ Full-Stack
+</br>
+✅ Cross-Platform
+</br>
+</br>
+👉 Tulsa Web Devs | Techlahoma Foundation
+</br>
+👉 Open Source Contributer | tRPC
+</br>
+</br>
+> [!IMPORTANT]
+> </br>
+> ❤️ Proud Dad
+> </br>
+> ❤️ Lucky Husband
 
-I'm a full-stack web developer, the founder of AlecVision, LLC, a co-organizer for Tulsa WebDevs, and, most importantly, a proud husband and father.
+</br>
 
-My passion is in growing, learning, and helping others do the same!
-
-I've worked with and designed systems involving many modern technologies across the application stack with a strong focus on tools that eliminate 'barriers to entry' for those who want to create great software. 
+> [!NOTE]
+>  </br>
+>  My passion is in growing, learning, and helping others do the same!
+>  </br>
+>  </br>
+>  I've worked with and designed systems involving many modern technologies across the application stack with a strong focus on tools that eliminate 'barriers to entry' for those who want to create great software.
 
 <!--
 **alecvision/AlecVision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
