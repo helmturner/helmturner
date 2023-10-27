@@ -1,7 +1,6 @@
 I'm Alec 👋
 ---
 > [!NOTE]
-> </br>
 > 🏢 AlecVision, LLC
 > </br>
 > </br>
@@ -14,18 +13,12 @@ I'm Alec 👋
 > </br>
 > 👉 Open Source Contributer | tRPC
 
-</br>
-
 > [!IMPORTANT]
-> </br>
 > ❤️ Proud Dad
 > </br>
 > ❤️ Lucky Husband
 
-</br>
-
 > [!NOTE]
->  </br>
 >  My passion is in growing, learning, and helping others do the same!
 >  </br>
 >  </br>
