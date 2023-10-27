@@ -1,6 +1,7 @@
 I'm Alec 👋
 ---
 > [!NOTE]
+> </br>
 > 🏢 AlecVision, LLC
 > </br>
 > </br>
