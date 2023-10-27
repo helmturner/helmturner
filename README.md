@@ -13,10 +13,14 @@ I'm Alec 👋
 > </br>
 > 👉 Open Source Contributer | tRPC
 
+</br>
+
 > [!IMPORTANT]
 > ❤️ Proud Dad
 > </br>
 > ❤️ Lucky Husband
+
+</br>
 
 > [!NOTE]
 >  My passion is in growing, learning, and helping others do the same!
