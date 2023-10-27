@@ -1,18 +1,20 @@
 I'm Alec 👋
 ---
-🏢 AlecVision, LLC
+> [!NOTE]
+> 🏢 AlecVision, LLC
+> </br>
+> </br>
+> ✅ Full-Stack
+> </br>
+> ✅ Cross-Platform
+> </br>
+> </br>
+> 👉 Tulsa Web Devs | Techlahoma Foundation
+> </br>
+> 👉 Open Source Contributer | tRPC
+
 </br>
-</br>
-✅ Full-Stack
-</br>
-✅ Cross-Platform
-</br>
-</br>
-👉 Tulsa Web Devs | Techlahoma Foundation
-</br>
-👉 Open Source Contributer | tRPC
-</br>
-</br>
+
 > [!IMPORTANT]
 > </br>
 > ❤️ Proud Dad
