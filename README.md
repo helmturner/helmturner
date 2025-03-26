@@ -1,9 +1,8 @@
-I'm Alec 👋
----
+# I'm Alec 👋
+
+## Founder of <a href="https://github.com/alecvision"><img height="25" width="25" src="https://img.icons8.com/ios11/512/FFFFFF/github.png"/></a> [AlecVision, LLC](https://alecvision.com)
+
 > [!NOTE]
-> 🏢 AlecVision, LLC
-> </br>
-> </br>
 > ✅ Full-Stack
 > </br>
 > ✅ Cross-Platform
@@ -11,7 +10,7 @@ I'm Alec 👋
 > </br>
 > 👉 Tulsa Web Devs | Techlahoma Foundation
 > </br>
-> 👉 Open Source Contributer | tRPC
+> 👉 Open Source Contributer
 
 </br>
 
